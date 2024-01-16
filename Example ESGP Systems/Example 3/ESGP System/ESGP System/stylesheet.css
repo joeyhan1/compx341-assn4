@@ -1,0 +1,44 @@
+node.lighting {
+  shape: circle;
+  size: 60px, 60px;
+  fill-color: rgb(217, 217, 217);
+  stroke-width: 1;
+  stroke-mode: plain;
+}
+
+node.controllers {
+  shape: cross;
+  size: 60px, 60px;
+  fill-color: rgb(217, 217, 217);
+  stroke-width: 1;
+  stroke-mode: plain;
+}
+
+node.appliances {
+  shape: box;
+  size: 60px, 60px;
+  fill-color: rgb(217, 217, 217);
+  stroke-width: 1;
+  stroke-mode: plain;
+}
+
+node.whiteware {
+  shape: diamond;
+  size: 60px, 60px;
+  fill-color: rgb(217, 217, 217);
+  stroke-width: 1;
+  stroke-mode: plain;
+}
+
+node.routers {
+  shape: rounded-box;
+  size: 60px, 60px;
+  fill-color: rgb(217, 217, 217);
+  stroke-width: 1;
+  stroke-mode: plain;
+}
+
+edge {
+  shape: line;
+  arrow-size: 6px, 6px;
+}
